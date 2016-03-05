@@ -30,13 +30,8 @@ PRODUCT_PACKAGES += \
     charger_res_images \
     charger
 
-PRODUCT_NAME := omni_r7plusf
-PRODUCT_DEVICE := r7plusf
-PRODUCT_BRAND := Oppo
-PRODUCT_MODEL := R7f
-PRODUCT_MANUFACTURER := Oppo
-
-# Kernel inline build
-#TARGET_KERNEL_CONFIG := r7plusf_defconfig
-#TARGET_VARIANT_CONFIG := r7plusf_defconfig
-#TARGET_SELINUX_CONFIG := r7plusf_defconfig
+PRODUCT_NAME := omni_ac50da
+PRODUCT_DEVICE := ac50da
+PRODUCT_BRAND := Archos
+PRODUCT_MODEL := 50 Diamond
+PRODUCT_MANUFACTURER := Archos
